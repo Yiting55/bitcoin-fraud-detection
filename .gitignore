@@ -1,0 +1,11 @@
+.DS_Store
+
+# Raw dataset; retain placement instructions
+/data/*
+!/data/README.md
+
+# Generated files and local environment
+/outputs/
+/.venv/
+__pycache__/
+.ipynb_checkpoints/
