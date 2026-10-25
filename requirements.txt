@@ -1,0 +1,20 @@
+# Verified environment: Python 3.11.9. Final pipeline and standalone development notebook.
+numpy==2.2.6
+pandas==2.3.0
+scikit-learn==1.9.1
+scipy==1.17.1
+joblib==1.6.0
+threadpoolctl==3.7.0
+catboost==1.2.10
+matplotlib==3.10.3
+# Jupyter notebook, kernel and automated notebook verification.
+notebook==7.4.3
+ipykernel==6.29.5
+nbformat==5.10.4
+nbclient==0.10.2
+nbconvert==7.16.6
+
+# Alternative boosters and compact neural comparison executed in the notebook.
+xgboost==3.2.0
+lightgbm==4.6.0
+torch==2.14.1
